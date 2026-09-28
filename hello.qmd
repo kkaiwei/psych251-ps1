@@ -1,6 +1,8 @@
 ---
 title: "Hello, conflicts resolved"
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 This is my first Quarto document for Psych 251.
 ```{r}
