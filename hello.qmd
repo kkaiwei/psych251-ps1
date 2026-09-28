@@ -6,3 +6,9 @@ This is my first Quarto document for Psych 251.
 ```{r}
 summary(cars)
 ```
+```{r}
+library(ggplot2)
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point()
+```
+
