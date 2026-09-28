@@ -2,7 +2,7 @@
 title: "Hello"
 format: html
 ---
-
+This is my first Quarto document for Psych 251.
 ```{r}
 summary(cars)
 ```
